@@ -86,7 +86,7 @@
 <br/>  
 
 
-## Github Stats (I am a beginner)
+## Github Stats (I am a beginner 😅)
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=ardaberktin&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 <br/>  
