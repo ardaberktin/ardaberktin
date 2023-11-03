@@ -40,7 +40,7 @@ I’m a passionate second-year software engineering student who is just starting
 </div>  
 
 
-</td></tr></table>  
+<!-- </td></tr></table> -->
 
 <br/>  
 
