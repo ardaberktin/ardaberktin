@@ -22,7 +22,7 @@ I’m a passionate second-year software engineering student who is just starting
 
 
 ## Rapidfire  
-<table><tr><td valign="top" width="50%">
+<div align="left"> 
 
 - 🔭 I’m currently working on [arda-resume](https://github.com/ardaberktin/arda-resume)  
   
@@ -33,14 +33,7 @@ I’m a passionate second-year software engineering student who is just starting
 - ⚡ Fun fact: I like light mode  
 
 
-</td><td valign="top" width="50%">
-
-<div align="center">
-<img src="" align="center" style="width: 100%" />
-</div>  
-
-
-<!-- </td></tr></table> -->
+</div> 
 
 <br/>  
 
