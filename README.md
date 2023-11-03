@@ -12,10 +12,10 @@
 - 📕 I’m currently learning SwiftUI and React  
   
 
-- ❓ Ask me about anything related to MERN stack and related technologies  
+- ❓ Ask me about my experience! 
   
 
-- ⚡ Fun fact: I use tabs over spaces  
+- ⚡ Fun fact: I like light mode
   
 
 <br/>  
