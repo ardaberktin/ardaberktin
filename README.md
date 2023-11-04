@@ -34,7 +34,7 @@ I’m a passionate second-year software engineering student who is just starting
 - 📖 I’m currently learning React and SwiftUI  
   
 
-- ⚡ Fun fact: I don't mind light mode  
+- ⚡ Fun fact: I like light mode  
 
 
 </div> 
