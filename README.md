@@ -4,7 +4,7 @@
 <a href="https://github.com/ardaberktin" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-<a href="https://linkedin.com/in/arda-berktin-861852253" target="_blank">
+<a href="https://linkedin.com/in/arda-berktin-861852253" :target="_blank" rel="noopener">
 <img src=https://img.shields.io/badge/linkedin-%23000000.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
 <a href="https://instagram.com/ardaberktin" target="_blank">
