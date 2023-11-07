@@ -19,7 +19,7 @@
 
 
 ### Glad to see you here!  
-I’m a passionate second-year software engineering student who is just starting their journey on software development. Wish me luck! Please contact me if you have any questions about my experiences.  
+I’m a passionate second-year software engineering student who is just starting their journey on software development. Please contact me if you have any questions about my experiences.
   
 
 <br/>  
