@@ -74,13 +74,17 @@ I’m a passionate second-year software engineering student who is just starting
 </td></tr></table>  
 
 <br/>-->  
-<br>
+
+
+<div>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ardaberktin&hide_border=true&layout=compact" align="left" style="width: 40%" />
-<br/>
+</div>
+
+
+<br />
+
 
 ![Profile views counter](https://komarev.com/ghpvc/?username=ardaberktin&&style=flat-square)
-
-<br/>  
 
 
 <br />
