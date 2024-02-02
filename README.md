@@ -31,10 +31,10 @@ I’m a passionate second-year software engineering student who is just starting
 - 🔭 I’m currently working on [My Portfolio Website](https://github.com/ardaberktin/arda-resume)
   
 
-- 📖 I’m currently learning React and SwiftUI  
+- 📖 I’m currently learning React 
   
 
-- ⚡ Fun fact: I like light mode  
+- ⚡ Fun fact: I like light mode
 
 
 </div> 
