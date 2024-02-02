@@ -28,7 +28,7 @@ I’m a passionate second-year software engineering student who is just starting
 ## Rapidfire  
 <div align="left"> 
 
-- 🔭 I’m currently working on [arda resume](https://github.com/ardaberktin/arda-resume) and [Money On Track](https://github.com/ardaberktin/MoneyOnTrack)
+- 🔭 I’m currently working on [arda resume](https://github.com/ardaberktin/arda-resume)
   
 
 - 📖 I’m currently learning React and SwiftUI  
