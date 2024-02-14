@@ -1,5 +1,8 @@
 ## Hey 👋, I'm Arda Berktin!  
   
+<a href="https://ardaberktin.github.io/arda-resume/" target="_blank">
+<img src=https://img.shields.io/badge/Arda's_Portfolio-%23000000.svg?&style=for-the-badge&logo=globel&logoColor=white alt=gmail style="margin-bottom: 5px;" />
+</a>  
 
 <a href="https://github.com/ardaberktin" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
@@ -15,9 +18,7 @@
 <img src=https://img.shields.io/badge/Gmail-%23000000.svg?&style=for-the-badge&logo=gmail&logoColor=white alt=gmail style="margin-bottom: 5px;" />
 </a>  
 
-<a href="https://ardaberktin.github.io/arda-resume/" target="_blank">
-<img src=https://img.shields.io/badge/Arda's_Portfolio-%23000000.svg?&style=for-the-badge&logo=globel&logoColor=white alt=gmail style="margin-bottom: 5px;" />
-</a>  
+
   
 
 
