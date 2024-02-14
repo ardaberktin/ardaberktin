@@ -35,7 +35,7 @@ portfolio website.
 ## Rapidfire  
 <div align="left"> 
 
-- 🔭 I’m currently working on [my portfolio website](https://github.com/ardaberktin/arda-resume)
+- 🔭 I’m currently working on [my portfolio website](https://github.com/ardaberktin/arda-resume) project
   
 
 - 📖 I’m currently learning React 
