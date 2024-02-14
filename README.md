@@ -14,6 +14,10 @@
 <a href="mailto:arberktin@gmail.com" target="_blank">
 <img src=https://img.shields.io/badge/Gmail-%23000000.svg?&style=for-the-badge&logo=gmail&logoColor=white alt=gmail style="margin-bottom: 5px;" />
 </a>  
+
+<a href="https://ardaberktin.github.io/arda-resume/" target="_blank">
+<img src=https://img.shields.io/badge/Arda's_Portfolio-%23000000.svg?&style=for-the-badge&logo=globel&logoColor=white alt=gmail style="margin-bottom: 5px;" />
+</a>  
   
 
 
