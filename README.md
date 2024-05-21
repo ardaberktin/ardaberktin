@@ -26,10 +26,10 @@
 ### Glad to see you here!  
 I’m a passionate second-year software engineering student who is just starting their journey on software development. Please contact me if you have any questions about my experience.
   
-Please check out my <a href="https://ardaberktin.com" target="_blank">
-Arda's Portfolio
+Please check out <a href="https://ardaberktin.com" target="_blank">
+ardaberktin.com
 </a>
-website.
+.
 <br/>  
 
 
