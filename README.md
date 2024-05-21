@@ -1,6 +1,6 @@
 ## Hey 👋, I'm Arda Berktin!  
   
-<a href="https://ardaberktin.github.io/arda-resume/" target="_blank">
+<a href="https://ardaberktin.com" target="_blank">
 <img src=https://img.shields.io/badge/Arda's_Portfolio-%23000000.svg?&style=for-the-badge&logo=globel&logoColor=white alt=gmail style="margin-bottom: 5px;" />
 </a>  
 
@@ -26,7 +26,7 @@
 ### Glad to see you here!  
 I’m a passionate second-year software engineering student who is just starting their journey on software development. Please contact me if you have any questions about my experience.
   
-Please check out my <a href="https://ardaberktin.github.io/arda-resume/" target="_blank">
+Please check out my <a href="https://ardaberktin.com" target="_blank">
 Arda's Portfolio
 </a>
 website.
