@@ -39,7 +39,7 @@ ardaberktin.com
 - 🔭 I’m currently working on [my portfolio website](https://github.com/ardaberktin/arda-resume) project
   
 
-- 📖 I’m currently learning Angular
+- 📖 I’m currently learning Angular / C#, .Net Core
   
 
 - ⚡ Fun fact: I like light mode
